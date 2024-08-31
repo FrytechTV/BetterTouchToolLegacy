@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Product</key>
+	<string>BetterTouchTool</string>
+	<key>Name</key>
+	<string>Free Legacy License</string>
+	<key>Email</key>
+	<string>Free Legacy License</string>
+	<key>OrderID</key>
+	<string></string>
+	<key>LicenseType</key>
+	<string>legacywebgenwebgen</string>
+	<key>Licenses</key>
+	<string>1</string>
+	<key>Timestamp</key>
+	<string>1518652800</string>
+	<key>CheckoutName</key>
+	<string>Free Legacy License</string>
+	<key>TransactionID</key>
+	<string>Free Legacy License</string>
+	<key>Signature</key>
+	<data>CyLsggzB3pHyrdNnHxDG38vVb8A673Xy42p8LTEZdedK9Js1Z3DNIJaa4rtEEzTk1eltHvawqfMZ
+uwMfY+V26a/XhOAZJUhgWfPXedDKVxC5+ocu9fnIo80ncv8ftD/eYpUbnYIzC3REUCvETlG9ISVX
+WjpC7sicoFYfRasBaOk=
+</data>
+</dict>
+</plist>
